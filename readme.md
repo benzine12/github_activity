@@ -1,6 +1,7 @@
 # GitHub Activity Tracker
 
-This project is a Python-based tool designed to track and analyze GitHub activity. It provides insights into repositories, commits, and contributions.
+This project created as [roadmap.sh](https://roadmap.sh/projects/github-user-activity) project. This is a Python-based tool designed to track and analyze GitHub activity. It provides insights into repositories, commits, and contributions.
+
 
 ## Features
 
